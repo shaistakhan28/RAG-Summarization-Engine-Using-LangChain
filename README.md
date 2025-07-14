@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Hassam Umar**
-- GitHub: [@rayyankhan777](https://github.com/rayyankhan777/)
+- GitHub: [@shaistakhan28](https://github.com/shaistakhan28)
 
 ## 🙏 Acknowledgments
 
